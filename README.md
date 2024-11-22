@@ -32,6 +32,7 @@ Editable permissions with a clear display of current settings.
 Permissions Management
 
 Dynamic assignment with real-time updates on UI.
+![image](https://github.com/user-attachments/assets/406b3a68-b8c9-41f3-8a53-5f30efd0a4b0)
 
 Contributors
 K. Pavan Kumar
